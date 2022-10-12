@@ -6,7 +6,7 @@
 ```javascript
 const gigi = {
     pronouns: "He" | "Him",
-    code: ["Python", "C++"],
+    code: ["Python", "C++", "C#", "React", "Javascript", "Html", "NodeJS",],
     askMeAbout: ["Gaming"],
     currentFocus: "Python",
 };
